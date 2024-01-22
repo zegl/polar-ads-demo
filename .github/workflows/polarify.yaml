@@ -11,6 +11,9 @@ on:
   schedule:
     - cron: "0 * * * *"
 
+  # Allow to trigger manually from the GitHub Actions Web UI
+  workflow_dispatch: {}
+
 jobs:
   polarify:
     name: "Polarify"
