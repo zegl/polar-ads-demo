@@ -9,4 +9,4 @@ Subscribe to ["Script Kiddie"](https://polar.sh/zegl/subscriptions) tier to get 
 
 <!-- POLAR-END id=golgnjnd -->
 
-<img src="https://polarzegl.eu.ngrok.io/embed/ad?id=e10d3883-cf29-4c1b-8438-b744b94d9a89" />
+<img src="https://polarzegl.eu.ngrok.io/embed/ad?id=e10d3883-cf29-4c1b-8438-b744b94d9a89&t=1" />
